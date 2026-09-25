@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-cranston",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cranston GIS — Cranston, Rhode Island open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f3cf2f412da733e12c7e10019370731fd2de47d7d7d5c76ef98d80232dbb1230",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-7e703537507a6fe78dcd77ef366e0112208b8869815a637be86713b7782c7c13",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
